@@ -139,3 +139,12 @@ ai-dashboard/
 ├── static/             # Generated charts and datasets
 └── models/             # Saved models
 ```
+
+
+<img width="1362" height="688" alt="ai 1" src="https://github.com/user-attachments/assets/3980ae65-9e7c-4f23-9625-44050cb1ef4a" />
+
+<img width="1363" height="681" alt="ai 2" src="https://github.com/user-attachments/assets/baaa3099-681a-49c8-8add-71968f9a4477" />
+
+<img width="1364" height="690" alt="ai3" src="https://github.com/user-attachments/assets/1d0fea63-902a-4e45-84cc-bf9c09208781" />
+
+
