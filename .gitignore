@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dashboard.db
+static/dataset_*.csv
+static/*.png
+models/*.joblib
